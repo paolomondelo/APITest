@@ -1,0 +1,30 @@
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.engine.dll
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.engine.api.dll
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\bin\Debug\PlexureAPITest.dll
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\bin\Debug\PlexureAPITest.pdb
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.framework.dll
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.framework.xml
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.csprojAssemblyReference.cache
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.csproj.CopyComplete
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.dll
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.pdb
+C:\Users\mondelop\Downloads\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.engine.core.dll
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.engine.dll
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.engine.api.dll
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.engine.core.dll
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\bin\Debug\PlexureAPITest.dll
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\bin\Debug\PlexureAPITest.pdb
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.framework.dll
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\bin\Debug\nunit.framework.xml
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.csprojAssemblyReference.cache
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.csproj.CopyComplete
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.dll
+C:\Users\mondelop\Desktop\C# Test automation\PlexureAPITest\PlexureAPITest\obj\Debug\PlexureAPITest.pdb
